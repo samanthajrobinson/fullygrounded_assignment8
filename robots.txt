@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sammydomain.com/sitemap.xml
+Sitemap: https://samanthajrobinson.github.io/fullygrounded_assignment8/sitemap.xml
