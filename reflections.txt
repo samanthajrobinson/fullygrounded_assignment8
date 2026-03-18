@@ -1,0 +1,15 @@
+1. Which SEO changes improved your site the most?
+The SEO changes that improved my site the most were adding unique title tags, meta descriptions, and semantic headings to each page. 
+These changes made the purpose of each page clearer to users. Adding alt text to images also improved accessibility and content clarity.
+
+2. How did Open Graph metadata affect your social preview?
+Open Graph metadata improved the way the homepage would appear when shared on social media. It allowed the page to have a specific title, description, image, and 
+URL instead of relying on page content. This made the website look more intentional.
+
+3. What did your audit tool reveal about your site’s performance?
+The audit tool showed that the website had a great SEO structure but still had room for improvement in performance and accessibility. It highlighted things like image 
+optimization, stronger contrast, and page organization. The results helped show which small technical changes could make the site better.
+
+4. What improvements would you make next?
+Next, I would compress images further to svg files or in another format. This would be particularly helpful if more images were added to the site.
+I would also test the site on mobile devices to make sure formatting does not get messed up. These changes would make the website more realistic and more complete.
